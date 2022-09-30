@@ -7,7 +7,10 @@ So, after that, it may happen that you will only be able to see the frontend of 
 
 For running the app in your local computer, you need to run the node server for the **server_side_backend** files in your local computer by running the command `npm start`.
 ( Obviously you need to have **node** and **npm** pre-installed on your system for doing this ! )
-And you may also need to change the first line of the **client.js** file present in the **client_side_frontend** folder. The line that connects to the heroku backend will have to be commented and the line which connects to the local server should be uncommented. 
+
+And you may also need to change the first line of the **client.js** file present in the **client_side_frontend** folder. 
+The line that connects to the heroku backend will have to be commented and the line which connects to the local server should be uncommented. 
+
 Also, in the **index.html** file, we need to change the script tag and remove the heroku backend website and replace it with the localhost.
 
 Here are few snapshots from the website.
@@ -26,3 +29,7 @@ Here are few snapshots from the website.
 >Saurabh left the chat
 
 ![Image 4](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG4.png?raw=true)
+
+>Footer of the website
+
+![Image 5](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG5.png?raw=true)
