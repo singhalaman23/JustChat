@@ -44,5 +44,5 @@ Here are few snapshots of the website from a mobile device
 ![mobileImage 1](https://github.com/singhalaman23/JustChat/blob/main/mobilejustchatIMG2.png?raw=true)
 
 
-***Thankyou for using the JustChat - Chatting application.
+***Thankyou for using JustChat.
 Have a nice day!***
