@@ -13,3 +13,7 @@ Here are few snapshots from the website.
 >Dialogue box that asks for the user to enter his/her name 
 
 ![Image 1](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG1.png?raw=true)
+
+>First user entered with the name "Aman"
+
+![Image 1](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG2.png?raw=true)
