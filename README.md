@@ -1,5 +1,6 @@
 # JustChat
-**JustChat** is a chatting web application made using HTML, CSS, Javascript, Node.js and Socket.io.
+**JustChat** is a chatting web application made using HTML, CSS, Javascript, Node.js and Socket.io. Multiple users can join at the same time and have a group chat among them.
+
 Currently, the nodejs backend is deployed on Heroku and the HTML/CSS frontend is deployed on Github pages. You can access the website using the link https://singhalaman23.github.io/JustChat-frontend/
 
 But heroku servers can sometimes run into some problems, and also the free dynos (free deploying service) provided by heroku is also going to be revoked from 28th November 2022.
