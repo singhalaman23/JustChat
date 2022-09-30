@@ -17,3 +17,11 @@ Here are few snapshots from the website.
 >First user entered with the name "Aman"
 
 ![Image 1](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG2.png?raw=true)
+
+>Second user entered with the name "Saurabh"
+
+![Image 1](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG3.png?raw=true)
+
+>Saurabh left the chat
+
+![Image 1](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG4.png?raw=true)
