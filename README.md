@@ -33,3 +33,11 @@ Here are few snapshots from the website.
 >Footer of the website
 
 ![Image 5](https://github.com/singhalaman23/JustChat/blob/main/justchatIMG5.png?raw=true)
+
+
+
+Here are few snapshots of the website from a mobile device
+
+![mobileImage 1](https://github.com/singhalaman23/JustChat/blob/main/mobilejustchatIMG1.png?raw=true)
+
+![mobileImage 1](https://github.com/singhalaman23/JustChat/blob/main/mobilejustchatIMG2.png?raw=true)
