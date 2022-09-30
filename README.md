@@ -3,6 +3,10 @@
 
 Currently, the nodejs backend is deployed on Heroku and the HTML/CSS frontend is deployed on Github pages. You can access the website using the link https://singhalaman23.github.io/JustChat-frontend/
 
+You can access the frontend files repository of this website using the link https://github.com/singhalaman23/JustChat-frontend and the backend files repository using the link https://github.com/singhalaman23/JustChat-backend .
+These two repositories were used for the deployment purpose.
+And this current repository is only for sharing the informations of the website.
+
 But heroku servers can sometimes run into some problems, and also the free dynos (free deploying service) provided by heroku is also going to be revoked from 28th November 2022.
 So, after that, it may happen that you will only be able to see the frontend of this website, and you will not be able to chat at realtime for that moment. So you may need to run the node server at your local computer.
 
